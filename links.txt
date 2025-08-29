@@ -12,3 +12,4 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleMusic/AppleMusic.yaml
 https://adrules.top/adrules_domainset.txt
 https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/gfw.txt
+https://linka.lmscunb.cc:2087/api/v1/client/subscribe?token=2e11cbd0f272d27a8a9bb9a418eedb42
